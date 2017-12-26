@@ -5,7 +5,7 @@ Ensure to download and install the BoltIoT-Arduino-Helpler library by Inventrom.
 https://github.com/Inventrom/boltiot-arduino-helper
 
 The repository assumes the following connection. 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/Vinayakj009/ML_POLY_BOLT_Arduino/master/LM35_Arduino_Bolt.png)
 
 You can download the code using the following command
 git pull 
